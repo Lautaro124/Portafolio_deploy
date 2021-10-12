@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+:root{
+  --border-radius: .40rem;
+
+  --light-background: #ffffff;
+  --light-color: #e5e5e5;
+  --light-simple-text-color: #000000;
+  --light-text: #fca311;
+  --light-border: 1px solid #14213d;
+
+  --dark-background: #000000;
+  --dark-color: #14213d;
+  --dark-simple-text-color: #ffffff;
+  --dark-text: #fca311;
+  --dark-border: 1px solid #fca311;
+}
